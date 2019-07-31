@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>test97</title>
+    <style type="text/css">
+        body{
+            background-image: url("zzh.jpg");
+            background-size: 100% 100%;
+            height: 100%;
+        }
+        html{
+            height: 100%;
+        }
+        @keyframes myfirst {
+            from{background: red;}
+            to{background: green;}
+        }
+        h1{
+            animation: myfirst 1s infinite;
+         }
+    </style>
+</head>
+<body>
+<h1>cm520</h1>
+</body>
+</html>
